@@ -1,6 +1,6 @@
 {
   "name": "@catmeow/readme-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered README generator that analyzes your project and creates comprehensive documentation",
   "main": "dist/index.js",
   "bin": {
